@@ -60,9 +60,15 @@ O Box Model possui quatro elementos: margin, border, padding e content.
 
 ### Links Úteis
 [HTML - Base](/https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element)
+
 [Reduz a imagem e tira metadados](https://tinypng.com/)
+
 [Alguém disse imagem gratis?](https://unsplash.com/)
+
 [Paleta de cores](https://coolors.co/)
+
+[Pexels](https://www.pexels.com/)
+
 
 
 

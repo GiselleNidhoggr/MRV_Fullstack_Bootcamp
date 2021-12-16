@@ -28,19 +28,16 @@ Repositório para guardar atividades do Bootcamp MRV Fullstack Developer da DIO.
 |git push origin main envia todos os comits locais para a nuvem. Inclusive acessa as alterações e comentários|
 |	git init inicializa um repositorio	|
 |	ls -a mostra pastas ocultas do sistema git	|
-
-
-**OBJETOS DO GIT**
-Blobs
-Trees 
-Commits
-
+|	git clone - usamos essa função para clonar o repositório do github na máquina local, pelo git bash	|
 
 
 
 **OBJETOS DO GIT**
+
 Blobs
+
 Trees 
+
 Commits
 
 
