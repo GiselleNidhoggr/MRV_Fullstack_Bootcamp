@@ -31,17 +31,13 @@ Repositório para guardar atividades do Bootcamp MRV Fullstack Developer da DIO.
 |	git clone - usamos essa função para clonar o repositório do github na máquina local, pelo git bash	|
 
 
-**OBJETOS DO GIT**
-Blobs
-Trees 
-Commits
-
-
-
 
 **OBJETOS DO GIT**
+
 Blobs
+
 Trees 
+
 Commits
 
 
