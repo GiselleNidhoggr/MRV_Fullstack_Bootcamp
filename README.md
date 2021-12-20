@@ -29,7 +29,8 @@ Repositório para guardar atividades do Bootcamp MRV Fullstack Developer da DIO.
 |	git init inicializa um repositorio	|
 |	ls -a mostra pastas ocultas do sistema git	|
 |	git clone - usamos essa função para clonar o repositório do github na máquina local, pelo git bash	|
-
+|	branch mostra o diretório que estamos	|
+|	git checkout -b 'nome da pasta' cria um branch novo|
 
 
 **OBJETOS DO GIT**
